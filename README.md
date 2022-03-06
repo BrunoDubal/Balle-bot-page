@@ -1,2 +1,4 @@
 # Ladding-page
- Ladding page para treino
+ Pagina inicial do Bot para discord Balle Bot. 
+ Exercicio feito praticar HTML 5 e CSS3.
+ 
